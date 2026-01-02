@@ -1,4 +1,4 @@
-#Direct.list 
+#Direct.list
 DOMAIN-SUFFIX,fineres.com,🎯 全球直连
 DOMAIN-SUFFIX,alanlang.club,🎯 全球直连
 DOMAIN-SUFFIX,alanlang.net,🎯 全球直连
@@ -16234,10 +16234,10 @@ DOMAIN-SUFFIX,hdslb.com,🍺 BILIBILI
 DOMAIN,upos-hz-mirrorakam.akamaized.net,🍺 BILIBILI
 DOMAIN,apiintl.biliapi.net,🍺 BILIBILI
 #> 直播API
-DOMAIN-SUFFIX,api.live.bilibili.com,🍺 BILIBILI #网页开播域名
+DOMAIN-SUFFIX,api.live.bilibili.com,🍺 BILIBILI
 DOMAIN-SUFFIX,biliapi.com,🍺 BILIBILI
 DOMAIN-SUFFIX,api.bilibili.com,🍺 BILIBILI
-DOMAIN,core.bilivideo.com,🍺 BILIBILI #直播姬验证域名
+DOMAIN,core.bilivideo.com,🍺 BILIBILI
 #DAZN.list
 #> DAZN
 DOMAIN-KEYWORD,voddazn,🌍 国外媒体
@@ -17213,7 +17213,7 @@ DOMAIN-SUFFIX,discordapp.net,🚀 节点选择
 DOMAIN-SUFFIX,granbluefantasy.jp,🎮 JpGames
 DOMAIN-SUFFIX,mbga.jp,🎮 JpGames
 DOMAIN-SUFFIX,cygames.jp,🎮 JpGames
-DOMAIN,apis.game.starlight-stage.jp,🎮 JpGames #imas starlight stage
+DOMAIN,apis.game.starlight-stage.jp,🎮 JpGames
 #granbluefantasy
 DOMAIN-SUFFIX,andapp.jp,🎮 JpGames
 DOMAIN-SUFFIX,mobage.jp,🎮 JpGames

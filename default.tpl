@@ -17264,45 +17264,142 @@ DOMAIN-SUFFIX,hostloc.com,🚀 节点选择
 #额外流媒体
 DOMAIN-SUFFIX,52glb.com,📹 其他流媒体
 
+# AI (category-ai-!cn)
 DOMAIN-SUFFIX,openai.com,🤖 Chatgpt
-DOMAIN-SUFFIX,pay.openai.com,🤖 Chatgpt
-DOMAIN-SUFFIX,chat.openai.com,🤖 Chatgpt
-DOMAIN-SUFFIX,challenges.cloudflare.com,🤖 Chatgpt
-DOMAIN-SUFFIX,auth0.com,🤖 Chatgpt
-DOMAIN-SUFFIX,auth0.openai.com,🤖 Chatgpt
-DOMAIN-SUFFIX,platform.openai.com,🤖 Chatgpt
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net,🤖 Chatgpt
 DOMAIN-SUFFIX,chatgpt.com,🤖 Chatgpt
-
-
-DOMAIN-SUFFIX,hcaptcha.com,🤖 Chatgpt
-DOMAIN-SUFFIX,recaptcha.net,🤖 Chatgpt
-
-DOMAIN-SUFFIX,sfx.ms,🤖 Chatgpt
-DOMAIN-SUFFIX,microsoft.com,🤖 Chatgpt
+DOMAIN-SUFFIX,chat.com,🤖 Chatgpt
 DOMAIN-SUFFIX,oaistatic.com,🤖 Chatgpt
 DOMAIN-SUFFIX,oaiusercontent.com,🤖 Chatgpt
-
-# Add ai.com,🤖 Chatgpt
+DOMAIN-SUFFIX,sora.com,🤖 Chatgpt
+DOMAIN-SUFFIX,auth0.com,🤖 Chatgpt
+DOMAIN-SUFFIX,challenges.cloudflare.com,🤖 Chatgpt
+DOMAIN-SUFFIX,hcaptcha.com,🤖 Chatgpt
+DOMAIN-SUFFIX,recaptcha.net,🤖 Chatgpt
+DOMAIN-SUFFIX,sfx.ms,🤖 Chatgpt
+DOMAIN-SUFFIX,microsoft.com,🤖 Chatgpt
 DOMAIN-SUFFIX,ai.com,🤖 Chatgpt
-# Add stripe.com,🤖 Chatgpt
 DOMAIN-SUFFIX,invoice.stripe.com,🤖 Chatgpt
 DOMAIN-SUFFIX,stripe.com,🤖 Chatgpt
-
-# Add Bing and Bard
-DOMAIN,bard.google.com,🤖 Chatgpt
-DOMAIN-SUFFIX,bing.com,🤖 Chatgpt
-
 DOMAIN-SUFFIX,sentry.io,🤖 Chatgpt
 DOMAIN-SUFFIX,identrust.com,🤖 Chatgpt
 DOMAIN,openaiapi-site.azureedge.net,🤖 Chatgpt
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,🤖 Chatgpt
+DOMAIN,openaicomproductionae4b.blob.core.windows.net,🤖 Chatgpt
+DOMAIN,production-openaicom-storage.azureedge.net,🤖 Chatgpt
+DOMAIN,openaicom.imgix.net,🤖 Chatgpt
+DOMAIN,o33249.ingest.sentry.io,🤖 Chatgpt
+DOMAIN,browser-intake-datadoghq.com,🤖 Chatgpt
+DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$,🤖 Chatgpt
+DOMAIN-SUFFIX,chatgpt.livekit.cloud,🤖 Chatgpt
+DOMAIN-SUFFIX,host.livekit.cloud,🤖 Chatgpt
+DOMAIN-SUFFIX,turn.livekit.cloud,🤖 Chatgpt
 
-# Add poe.com,🤖 Chatgpt
-DOMAIN-SUFFIX,poe.com,🤖 Chatgpt
-
-# Add Anthropic
-DOMAIN,servd-anthropic-website.b-cdn.net,🤖 Chatgpt
+# Anthropic
 DOMAIN-SUFFIX,anthropic.com,🤖 Chatgpt
 DOMAIN-SUFFIX,claude.ai,🤖 Chatgpt
+DOMAIN-SUFFIX,claude.com,🤖 Chatgpt
+DOMAIN-SUFFIX,claudeusercontent.com,🤖 Chatgpt
+DOMAIN-SUFFIX,claudemcpclient.com,🤖 Chatgpt
+DOMAIN,servd-anthropic-website.b-cdn.net,🤖 Chatgpt
 
+# ByteDance AI
+DOMAIN-SUFFIX,cici.com,🤖 Chatgpt
+DOMAIN-SUFFIX,ciciai.com,🤖 Chatgpt
+DOMAIN-SUFFIX,ciciaicdn.com,🤖 Chatgpt
+DOMAIN-SUFFIX,dola.com,🤖 Chatgpt
+DOMAIN-SUFFIX,coze.com,🤖 Chatgpt
+DOMAIN-SUFFIX,marscode.com,🤖 Chatgpt
+DOMAIN-SUFFIX,trae.ai,🤖 Chatgpt
+
+# Cerebras
+DOMAIN-SUFFIX,cerebras.ai,🤖 Chatgpt
+
+# ComfyUI
+DOMAIN-SUFFIX,oystermercury.top,🤖 Chatgpt
+DOMAIN-SUFFIX,comfy.org,🤖 Chatgpt
+DOMAIN-SUFFIX,comfyci.org,🤖 Chatgpt
+DOMAIN-SUFFIX,comfyregistry.org,🤖 Chatgpt
+
+# Cursor
+DOMAIN-SUFFIX,cursor-cdn.com,🤖 Chatgpt
+DOMAIN-SUFFIX,cursor.com,🤖 Chatgpt
+DOMAIN-SUFFIX,cursor.sh,🤖 Chatgpt
+DOMAIN-SUFFIX,cursorapi.com,🤖 Chatgpt
+
+# ElevenLabs
+DOMAIN-SUFFIX,elevenlabs.com,🤖 Chatgpt
+DOMAIN-SUFFIX,elevenlabs.io,🤖 Chatgpt
+
+# Google AI / DeepMind
+DOMAIN-SUFFIX,deepmind.com,🤖 Chatgpt
+DOMAIN-SUFFIX,deepmind.google,🤖 Chatgpt
+DOMAIN-SUFFIX,geller-pa.googleapis.com,🤖 Chatgpt
+DOMAIN-SUFFIX,generativelanguage.googleapis.com,🤖 Chatgpt
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,🤖 Chatgpt
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com,🤖 Chatgpt
+DOMAIN,ai.google.dev,🤖 Chatgpt
+DOMAIN,alkalicore-pa.clients6.google.com,🤖 Chatgpt
+DOMAIN,alkalimakersuite-pa.clients6.google.com,🤖 Chatgpt
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com,🤖 Chatgpt
+DOMAIN-SUFFIX,generativeai.google,🤖 Chatgpt
+DOMAIN-SUFFIX,makersuite.google.com,🤖 Chatgpt
+DOMAIN-SUFFIX,aistudio.google.com,🤖 Chatgpt
+DOMAIN-SUFFIX,bard.google.com,🤖 Chatgpt
+DOMAIN-SUFFIX,gemini.google,🤖 Chatgpt
+DOMAIN-SUFFIX,gemini.google.com,🤖 Chatgpt
+DOMAIN-SUFFIX,notebooklm.google,🤖 Chatgpt
+DOMAIN-SUFFIX,notebooklm.google.com,🤖 Chatgpt
+DOMAIN-SUFFIX,jules.google,🤖 Chatgpt
+DOMAIN-SUFFIX,jules.google.com,🤖 Chatgpt
+DOMAIN-SUFFIX,labs.google,🤖 Chatgpt
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com,🤖 Chatgpt
+DOMAIN-SUFFIX,aida.googleapis.com,🤖 Chatgpt
+DOMAIN-SUFFIX,opal.google,🤖 Chatgpt
+DOMAIN-SUFFIX,opal.google.com,🤖 Chatgpt
+
+# Groq
+DOMAIN-SUFFIX,groq.com,🤖 Chatgpt
+
+# Hugging Face
+DOMAIN-SUFFIX,hf.co,🤖 Chatgpt
+DOMAIN-SUFFIX,hf.space,🤖 Chatgpt
+DOMAIN-SUFFIX,huggingface.co,🤖 Chatgpt
+
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai,🤖 Chatgpt
+DOMAIN-SUFFIX,perplexity.com,🤖 Chatgpt
+DOMAIN-SUFFIX,pplx.ai,🤖 Chatgpt
+DOMAIN,pplx-res.cloudinary.com,🤖 Chatgpt
+
+# Poe
+DOMAIN-SUFFIX,poe.com,🤖 Chatgpt
+DOMAIN-SUFFIX,poecdn.net,🤖 Chatgpt
+
+# xAI
+DOMAIN-SUFFIX,grok.com,🤖 Chatgpt
+DOMAIN-SUFFIX,grok.x.com,🤖 Chatgpt
+DOMAIN-SUFFIX,x.ai,🤖 Chatgpt
+
+# Others
+DOMAIN-SUFFIX,coderabbit.ai,🤖 Chatgpt
+DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io,🤖 Chatgpt
+DOMAIN-SUFFIX,cohere.ai,🤖 Chatgpt
+DOMAIN-SUFFIX,cohere.com,🤖 Chatgpt
+DOMAIN-SUFFIX,clipdrop.co,🤖 Chatgpt
+DOMAIN-SUFFIX,jasper.ai,🤖 Chatgpt
+DOMAIN-SUFFIX,chutes.ai,🤖 Chatgpt
+DOMAIN-SUFFIX,copilot.microsoft.com,🤖 Chatgpt
+DOMAIN-SUFFIX,devin.ai,🤖 Chatgpt
+DOMAIN-SUFFIX,diabrowser.com,🤖 Chatgpt
+DOMAIN-SUFFIX,dify.ai,🤖 Chatgpt
+DOMAIN-SUFFIX,duck.ai,🤖 Chatgpt
+DOMAIN-SUFFIX,gateway.ai.cloudflare.com,🤖 Chatgpt
+DOMAIN-SUFFIX,kiro.dev,🤖 Chatgpt
+DOMAIN-SUFFIX,meta.ai,🤖 Chatgpt
+DOMAIN-SUFFIX,mistral.ai,🤖 Chatgpt
+DOMAIN-SUFFIX,openart.ai,🤖 Chatgpt
+DOMAIN-SUFFIX,openrouter.ai,🤖 Chatgpt
+DOMAIN-SUFFIX,bing.com,🤖 Chatgpt
 GEOIP,CN,🎯 全球直连
 MATCH,🐟 漏网之鱼

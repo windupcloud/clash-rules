@@ -17339,6 +17339,7 @@ DOMAIN-SUFFIX,generativelanguage.googleapis.com,🤖 Chatgpt
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,🤖 Chatgpt
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com,🤖 Chatgpt
 DOMAIN,ai.google.dev,🤖 Chatgpt
+DOMAIN-SUFFIX,clients6.google.com,🤖 Chatgpt
 DOMAIN,alkalicore-pa.clients6.google.com,🤖 Chatgpt
 DOMAIN,alkalimakersuite-pa.clients6.google.com,🤖 Chatgpt
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com,🤖 Chatgpt

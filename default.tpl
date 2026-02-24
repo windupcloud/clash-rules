@@ -17234,6 +17234,9 @@ DOMAIN-SUFFIX,twimg.org,🧢 Twitter
 DOMAIN-SUFFIX,twitpic.com,🧢 Twitter
 DOMAIN-SUFFIX,twitter.biz,🧢 Twitter
 DOMAIN-SUFFIX,twitter.com,🧢 Twitter
+DOMAIN-SUFFIX,x.com,🧢 Twitter
+DOMAIN-SUFFIX,grok.x.com,🧢 Twitter
+DOMAIN-SUFFIX,x.ai,🧢 Twitter
 DOMAIN-SUFFIX,twitter.jp,🧢 Twitter
 DOMAIN-SUFFIX,twittercommunity.com,🧢 Twitter
 DOMAIN-SUFFIX,twitterflightschool.com,🧢 Twitter
@@ -17379,8 +17382,6 @@ DOMAIN-SUFFIX,poecdn.net,🤖 Chatgpt
 
 # xAI
 DOMAIN-SUFFIX,grok.com,🤖 Chatgpt
-DOMAIN-SUFFIX,grok.x.com,🤖 Chatgpt
-DOMAIN-SUFFIX,x.ai,🤖 Chatgpt
 
 # Others
 DOMAIN-SUFFIX,coderabbit.ai,🤖 Chatgpt

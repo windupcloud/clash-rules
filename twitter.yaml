@@ -12,6 +12,9 @@ payload:
   - DOMAIN-SUFFIX,twitpic.com
   - DOMAIN-SUFFIX,twitter.biz
   - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,grok.x.com
+  - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,twitter.jp
   - DOMAIN-SUFFIX,twittercommunity.com
   - DOMAIN-SUFFIX,twitterflightschool.com

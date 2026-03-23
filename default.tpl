@@ -16004,7 +16004,7 @@ IP-CIDR,114.247.28.96/32,🍃 应用净化,no-resolve
 IP-CIDR,221.179.131.72/32,🍃 应用净化,no-resolve
 IP-CIDR,221.179.140.145/32,🍃 应用净化,no-resolve
 #> Dr.Peng
-IP-CIDR,10.72.25.0/24,🍃 应用净化
+IP-CIDR,10.72.25.0/24,🍃 应用净化,no-resolve
 IP-CIDR,115.182.16.79/32,🍃 应用净化,no-resolve
 IP-CIDR,118.144.88.126/32,🍃 应用净化,no-resolve
 IP-CIDR,118.144.88.215/32,🍃 应用净化,no-resolve
@@ -17249,13 +17249,13 @@ DOMAIN-SUFFIX,twttr.net,🧢 Twitter
 DOMAIN-SUFFIX,twvid.com,🧢 Twitter
 DOMAIN-SUFFIX,vine.co,🧢 Twitter
 DOMAIN-KEYWORD,twitter,🧢 Twitter
-IP-CIDR,192.133.76.0/22,🧢 Twitter
-IP-CIDR,199.16.156.0/22,🧢 Twitter
-IP-CIDR,199.59.148.0/22,🧢 Twitter
-IP-CIDR,199.96.56.0/21,🧢 Twitter
-IP-CIDR,202.160.128.0/22,🧢 Twitter
-IP-CIDR,209.237.192.0/19,🧢 Twitter
-IP-CIDR,69.195.160.0/19,🧢 Twitter
+IP-CIDR,192.133.76.0/22,🧢 Twitter,no-resolve
+IP-CIDR,199.16.156.0/22,🧢 Twitter,no-resolve
+IP-CIDR,199.59.148.0/22,🧢 Twitter,no-resolve
+IP-CIDR,199.96.56.0/21,🧢 Twitter,no-resolve
+IP-CIDR,202.160.128.0/22,🧢 Twitter,no-resolve
+IP-CIDR,209.237.192.0/19,🧢 Twitter,no-resolve
+IP-CIDR,69.195.160.0/19,🧢 Twitter,no-resolve
 
 #新增.list
 DOMAIN-SUFFIX,sourceforge.net,🚀 节点选择

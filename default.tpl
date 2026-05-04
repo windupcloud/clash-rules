@@ -27,6 +27,17 @@ DOMAIN-SUFFIX,npmjs.org,🚀 节点选择
 DOMAIN-SUFFIX,npmjs.org,🚀 节点选择
 DOMAIN-SUFFIX,registry.npmjs.org,🚀 节点选择
 DOMAIN-SUFFIX,proxy.golang.org,🚀 节点选择
+#Apple Push Notification Service
+DOMAIN-SUFFIX,push.apple.com,🚀 节点选择
+IP-CIDR,17.249.0.0/16,🚀 节点选择,no-resolve
+IP-CIDR,17.252.0.0/16,🚀 节点选择,no-resolve
+IP-CIDR,17.57.144.0/22,🚀 节点选择,no-resolve
+IP-CIDR,17.188.20.0/23,🚀 节点选择,no-resolve
+IP-CIDR,17.188.128.0/18,🚀 节点选择,no-resolve
+IP-CIDR6,2620:149:a44::/48,🚀 节点选择,no-resolve
+IP-CIDR6,2403:300:a42::/48,🚀 节点选择,no-resolve
+IP-CIDR6,2403:300:a51::/48,🚀 节点选择,no-resolve
+IP-CIDR6,2a01:b740:a42::/48,🚀 节点选择,no-resolve
 #TikTok.list
 DOMAIN,p16-tiktokcdn-com.akamaized.net,🎵 TikTok
 DOMAIN-SUFFIX,amemv.com,🎵 TikTok

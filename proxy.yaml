@@ -1,9 +1,4 @@
 payload:
-  # > Honor of Kings (International)
-  - DOMAIN-SUFFIX,honorofkings.com
-  - DOMAIN-SUFFIX,sgameglobal.com
-  - DOMAIN,sg-hok.playerinfinite.com
-  - DOMAIN,hokglobal.onelink.me
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,yarnpkg.com
   - DOMAIN-SUFFIX,maying.co
